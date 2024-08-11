@@ -1,0 +1,56 @@
+# Inteligência Artificial
+
+Seja bem vindo a Disciplina de Inteligência Artificial
+
+## Conteúdo
+
+Esse repositório faz parte da disciplina do 3º ano de Engenharia Informática na Universidade KIMPA VITA 
+
+Para saber mais [acesse aqui](../README.md)
+
+- Topicos de Inteligência Artificial
+  - Fundamentos de Inteligência Artificial
+  - Algoritmos 
+  - Ferramentas
+  - [Rodando o projeto]
+
+## Você sabe o que faz um engenheiro de dados?
+
+![Figura01](./pics/radar-600x333.png)
+
+É o responsável por criar plataformas e pipeline de dados com qualidade
+
+## Ele ainda trabalha com todas essas tecnologias
+
+![Figura01](./pics/lista_de_tecnologias.png)
+
+Mas acho que…
+
+## Isso explica melhor
+
+![Figura01](./pics/meme_barbie.png)
+
+![Figura01](./pics/arquitetura.png)
+
+![Figura01](./pics/workshop.png)
+
+## Objetivo
+
+* Testes com Pytest e Selenium
+* Documentando com Mkdcos
+* O resto é codando em Python e tomando Coca-Cola
+
+## Rodando o projeto
+
+```bash
+git clone
+cd 
+```
+
+## Possui dúvidas? 
+
+- Fale comigo [Link do Linkedin](https://www.linkedin.com/in/lucianovasconcelosf/)
+
+## Agora para o projeto?
+
+- Toda a documentação do projeto é feita usando Mkdocs
