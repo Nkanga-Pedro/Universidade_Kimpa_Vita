@@ -12,7 +12,6 @@ Nossa missão é **fornecer o melhor ensino e fortalecer melhor investigação e
 A **Jornada de Dados** é o seu lugar
 
 ## Atividades realizadas
-|-----|--------|--------|
 Como criar e estruturar o seu projeto de dados
 Do Jupyter Notebook Pro Deploy
 ETL com Python do Zero ao Deploy
